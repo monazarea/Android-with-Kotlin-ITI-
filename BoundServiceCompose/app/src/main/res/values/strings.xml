@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoundServiceCompose</string>
+    <string name="get_time">Get Time</string>
+
+</resources>

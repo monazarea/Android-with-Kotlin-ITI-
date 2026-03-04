@@ -10,7 +10,6 @@ sealed class Screens {
 //    @Serializable
 //    data class DetailsScreen(val message: String,val phone: String): Screens()
 
-
     @Serializable
     object SignUpScreen : Screens()
 
